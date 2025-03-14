@@ -11,7 +11,7 @@
 
 # My Related Articles on Medium
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) How to Create a Slack Bot with Spring Boot](https://muratcanyeldan.com/how-to-create-a-telegram-bot-with-spring-boot-9289d81dfe6a)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) How to Create a Slack Bot with Spring Boot](https://muratcanyeldan.com/how-to-create-a-slack-bot-with-spring-boot-bc7ed3243e9c)
 
 
 # Redis Cache Manager Slack Bot
