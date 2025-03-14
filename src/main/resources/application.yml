@@ -1,0 +1,14 @@
+server:
+  port: 7200
+  shutdown: graceful
+
+slack:
+  token: ${BOT_TOKEN:INSERT_YOUR_SLACK_TOKEN_HERE}
+  channelId: ${CHANNEL_ID:INSERT_YOUR_CHANNEL_ID_HERE}
+  username: ${BOT_USERNAME:INSERT_YOUR_BOT_USERNAME_HERE}
+
+spring:
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
